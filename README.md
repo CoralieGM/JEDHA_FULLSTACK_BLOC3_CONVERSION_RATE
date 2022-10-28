@@ -27,6 +27,3 @@ Understand better the behaviour of the users visiting their website. They would 
 ## Authors
 
 **Coralie GUILLOTTE* - [CoralieGM](https://github.com/CoralieGM)
-
-## Acknowledgements
-Thanks to all the Jedha's alumni and others who inspired me !
