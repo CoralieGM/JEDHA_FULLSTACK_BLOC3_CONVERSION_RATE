@@ -22,7 +22,7 @@ Understand better the behaviour of the users visiting their website. They would 
 ## Details for certification purpose
 
 * email adress: cora.michel@gmail.com
-* video link: 
+* video link: https://share.vidyard.com/watch/V5vhWYTjsqzbQHLfZJDBzp?
 
 ## Authors
 
